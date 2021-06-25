@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/OkadocTech/okadoc-maven-repository/ios'
   s.license          = 'Apache 2'
   s.authors          = 'The Okadoc Meet project authors'
-  s.source           = { :git => 'https://github.com/OkadocTech/okadoc-maven-repository/ios.git', :tag => s.version }
+  s.source           = { :git => 'https://github.com/OkadocTech/okadoc-maven-repository/ios', :tag => s.version }
 
   s.platform         = :ios, '11.0'
 
