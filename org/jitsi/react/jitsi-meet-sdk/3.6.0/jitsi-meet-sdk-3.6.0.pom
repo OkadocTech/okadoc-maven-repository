@@ -11,7 +11,7 @@
     <repository>
         <id>github</id>
         <name>Okadoc Maven Repository</name>
-        <url>https://github.com/OkadocTech/okadoc-maven-repository/tree/android</url>
+        <url>https://hanifmhd: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@github.com/OkadocTech/okadoc-maven-repository/tree/android</url>
         <releases><enabled>true</enabled></releases>
         <snapshots><enabled>true</enabled></snapshots>
     </repository>
