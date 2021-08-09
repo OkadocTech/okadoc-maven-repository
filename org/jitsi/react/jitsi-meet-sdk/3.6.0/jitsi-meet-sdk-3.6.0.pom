@@ -7,6 +7,15 @@
   <packaging>aar</packaging>
   <name>jitsi-meet-sdk</name>
   <description>Jitsi Meet SDK for Android</description>
+  <repositories>
+    <repository>
+        <id>github</id>
+        <name>Okadoc Maven Repository</name>
+        <url>https://github.com/OkadocTech/okadoc-maven-repository/tree/android</url>
+        <releases><enabled>true</enabled></releases>
+        <snapshots><enabled>true</enabled></snapshots>
+    </repository>
+  </repositories>
   <dependencies>
     <dependency>
       <groupId>com.facebook.react</groupId>
